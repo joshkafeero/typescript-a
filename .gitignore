@@ -2706,3 +2706,6 @@ sort/package-lock.json
 stats/package-lock.json
 stats/build/tmp
 stats/build/index.js
+stats/build/MatchReader.js
+stats/build/MatchResult.js
+stats/build/utils.js
