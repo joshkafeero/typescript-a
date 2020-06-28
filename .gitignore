@@ -2703,3 +2703,5 @@ sort/build/LinkedList.js
 sort/build/NumbersCollection.js
 sort/build/Sorter.js
 sort/package-lock.json
+stats/package-lock.json
+stats/build/tmp
