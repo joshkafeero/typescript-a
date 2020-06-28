@@ -2709,3 +2709,5 @@ stats/build/index.js
 stats/build/MatchReader.js
 stats/build/MatchResult.js
 stats/build/utils.js
+stats/build/CsvFileReader.js
+stats/build/inheritance/MatchReader.js
