@@ -2711,3 +2711,8 @@ stats/build/MatchResult.js
 stats/build/utils.js
 stats/build/CsvFileReader.js
 stats/build/inheritance/MatchReader.js
+stats/build/Analyzer.js
+stats/build/MatchData.js
+stats/build/Summary.js
+stats/build/analyzers/WinsAnalysis.js
+stats/build/reportTargets/ConsoleReport.js
