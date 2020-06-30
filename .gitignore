@@ -2716,3 +2716,5 @@ stats/build/MatchData.js
 stats/build/Summary.js
 stats/build/analyzers/WinsAnalysis.js
 stats/build/reportTargets/ConsoleReport.js
+stats/build/reportTargets/ConsoleReport copy.js
+stats/build/reportTargets/HtmlReport.js
